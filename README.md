@@ -1,8 +1,8 @@
-# Verilog-CPU-Design
-Verilog Cpu Assembler
+# Logisim-CPU-Design
+Logisim Cpu Assembler
 
 ###Technologies
-* Verilog
+* Logisim
 * Java
 
 
